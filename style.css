@@ -1,0 +1,18 @@
+@font-face {
+  src: url('/src/GoogleSans.ttf');
+  font-family:'GoogleSans';
+  font-style: normal;
+}
+#atas {
+  font-family: 'GoogleSans';
+  font-size: 40px;
+}
+#blok {
+  font-family: 'GoogleSans';
+  font-size: 18px;
+  font-weight:;
+}
+input#darkSwitch {
+  font-size: 30px;
+  margin-left: 1px;
+}
