@@ -190,3 +190,14 @@ p.frontend {
   font-weight: 600;
   margin-bottom: 15px;
 }
+
+p.hobby {
+  margin-top: 5%;
+  color: #4169E1;
+  font-weight: 600;
+}
+
+.feli {
+  color: black;
+  font-weight: 500;
+}
