@@ -22,6 +22,11 @@ nav {
   background-color: white;
 }
 
+.gede h1 {
+  line-height: 125%;
+  font-size: 149%;
+}
+
 h2.zx {
   display: inline-block;
   font-size: 30px;
@@ -130,7 +135,7 @@ section {
 }
 
 .socials {
-  margin-top: 20px;
+  margin-top: 15px;
   float: left;
 }
 
@@ -266,10 +271,9 @@ h5 {
 }
 
 .subjudul1 {
-  font-weight: 700;
   font-size: 30px;
   color: #4169e1;
   text-align: center;
-  margin-top: -35%;
+ margin-top: -35%;
   margin-bottom: 10%;
 }
